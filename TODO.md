@@ -1,3 +1,6 @@
-- [ ] Executar comandos do sistema
+- [x] Executar comandos no sistema
+- [ ] Adicionar capacidade de editar o comando enquanto está sendo digitado
 - [ ] Dar opções de customizar o shell
-
+- [ ] Adicionar comando de ajuda
+- [ ] Lidar com comandos multi linha
+- [ ] Adicionar recurso de histórico
