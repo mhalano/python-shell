@@ -1,6 +1,8 @@
 - [x] Executar comandos no sistema
-- [ ] Adicionar capacidade de editar o comando enquanto está sendo digitado
-- [ ] Dar opções de customizar o shell
+- [ ] Dar opções de customizar o prompt do shell para algo mais completo
 - [ ] Adicionar comando de ajuda
 - [ ] Lidar com comandos multi linha
 - [ ] Adicionar recurso de histórico
+- [ ] Adicionar arquivo(s) de configuração
+- [ ] Adicionar modo de login
+- [ ] Adicionar suporte a variáveis (criação, uso, etc.)
