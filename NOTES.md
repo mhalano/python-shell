@@ -1,0 +1,1 @@
+- Um shell é invocado no modo de login quando o primeiro caractere do executável é um hífen. Pode-se testar isso executando "su - <usuário>" e depois digitar echo $0 que mostrará "-bash" ou "-zsh"ao invés de simplesmente "bash"ou "zsh".
